@@ -1,0 +1,6 @@
+{
+  "name": "EduRealtime LMS - Backend AI & Auto-Grading",
+  "description": "Aplikasi Pembelajaran Daring (LMS) Real-Time terintegrasi Backend AI, manajemen 3 hak akses (Admin, Guru, Siswa), validasi paket soal, publikasi instan real-time, dan penilaian otomatis (auto-grading) berbasis rubrik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
